@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-swapi/static/css/main.795e624a.css",
+    "main.js": "/simple-swapi/static/js/main.8f0e34e7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/simple-swapi/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/simple-swapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-swapi/index.html",
+    "main.795e624a.css.map": "/simple-swapi/static/css/main.795e624a.css.map",
+    "main.8f0e34e7.js.map": "/simple-swapi/static/js/main.8f0e34e7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/simple-swapi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795e624a.css",
+    "static/js/main.8f0e34e7.js"
+  ]
+}
